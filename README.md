@@ -21,10 +21,14 @@
     https://airflow.apache.org/docs/apache-airflow/stable/concepts/sensors.html
 ### Triggers
     https://airflow.apache.org/docs/apache-airflow/stable/concepts/deferring.html
+### Connections & Hooks
+    https://airflow.apache.org/docs/apache-airflow/stable/concepts/connections.html
 ### XCOMs
     https://airflow.apache.org/docs/apache-airflow/stable/concepts/xcoms.html
 ### Variables
     https://airflow.apache.org/docs/apache-airflow/stable/concepts/variables.html
+### DAG Examples
+    https://github.com/airflow-plugins/Example-Airflow-DAGs
 
 ## Exercises
 ### Exercise 1 - Basic ETL
